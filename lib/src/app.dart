@@ -13,7 +13,7 @@ class _AppState extends State<App> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('List App'),
+          title: const Text('Checklist'),
         ),
         body: Padding(
           padding: const EdgeInsets.all(16.0),
